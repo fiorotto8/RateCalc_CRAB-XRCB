@@ -1,0 +1,8 @@
+side=10#cm
+en_start=3#keV
+en_stop=70#keV
+en_step=0.1#keV
+he_rho=0.00018#g/cm3
+cf4_rho=0.00372#g/cm3
+he_ratio=0.6
+cf4_ratio=0.4
